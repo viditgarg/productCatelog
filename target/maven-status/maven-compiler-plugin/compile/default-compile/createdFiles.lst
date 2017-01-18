@@ -1,0 +1,12 @@
+com\vk\rs\ProductCatelogRestService.class
+com\vk\model\Product.class
+com\vk\Starter.class
+com\vk\rs\PeopleRestService.class
+com\vk\service\ProductCatelogServiceImpl.class
+com\vk\config\UserDetailsSecurityConfig$1.class
+com\vk\rs\JaxRsApiApplication.class
+com\vk\config\InMemorySecurityConfig.class
+com\vk\model\Category.class
+com\vk\service\ProductCatelogService.class
+com\vk\config\UserDetailsSecurityConfig.class
+com\vk\config\AppConfig.class
